@@ -12,24 +12,32 @@ jobs:
   run-tests:
     runs-on: ubuntu-latest
     timeout-minutes: 360 # Maximum timeout (6 hours)
+
     steps:
+      # Step 1: Checkout code
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # Step 2: Set up Node.js
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
 
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: npm install
 
-      # Run each test file sequentially
-      - name: Run checkout_automation.spec.js
-        run: npx playwright test checkout_automation.spec.js
+      # Step 4: Install Playwright browsers
+      - name: Install Playwright browsers
+        run: npx playwright install
 
-      - name: Run checkout_automations.spec.js
-        run: npx playwright test checkout_automations.spec.js
+      # Step 5: Run each test file sequentially
+      - name: Run checkout.spec.js
+        run: npx playwright test checkout.spec.js
 
-      - name: Run checkout_automationss.spec.js
-        run: npx playwright test checkout_automationss.spec.js
+      - name: Run checkout2.spec.js
+        run: npx playwright test checkout2.spec.js
+
+      - name: Run checkout3.spec.js
+        run: npx playwright test checkout3.spec.js

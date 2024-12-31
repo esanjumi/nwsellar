@@ -1,0 +1,35 @@
+name: Sequential Playwright Tests
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  run-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360 # Maximum timeout (6 hours)
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      # Run each test file sequentially
+      - name: Run checkout_automation.spec.js
+        run: npx playwright test checkout_automation.spec.js
+
+      - name: Run checkout_automations.spec.js
+        run: npx playwright test checkout_automations.spec.js
+
+      - name: Run checkout_automationss.spec.js
+        run: npx playwright test checkout_automationss.spec.js

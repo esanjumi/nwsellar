@@ -12,19 +12,24 @@ jobs:
   run-tests:
     runs-on: ubuntu-latest
     timeout-minutes: 360 # Maximum timeout (6 hours)
+
     steps:
+      # Step 1: Checkout code
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # Step 2: Set up Node.js
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
 
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: npm install
 
-      # Run each test file sequentially
+      # Step 4: Run each test file sequentially
+
       - name: Run checkout_automation.spec.js
         run: npx playwright test checkout_automation.spec.js
 

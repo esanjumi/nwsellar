@@ -1,0 +1,198 @@
+Checkout Automation Test Report
+
+Test started: 1000 checkout transactions automation.
+
+Starting checkout 1 with Name: User_d9g0nb27, Email: user_d9g0nb27@example.com
+Checkout 1 completed with Name: User_d9g0nb27, Email: user_d9g0nb27@example.com
+Starting checkout 2 with Name: User_pxszxnit, Email: user_pxszxnit@example.com
+Checkout 2 completed with Name: User_pxszxnit, Email: user_pxszxnit@example.com
+Starting checkout 3 with Name: User_dm3dw17m, Email: user_dm3dw17m@example.com
+Checkout 3 completed with Name: User_dm3dw17m, Email: user_dm3dw17m@example.com
+Starting checkout 4 with Name: User_jevj14gg, Email: user_jevj14gg@example.com
+Checkout 4 completed with Name: User_jevj14gg, Email: user_jevj14gg@example.com
+Starting checkout 5 with Name: User_4w90zj7w, Email: user_4w90zj7w@example.com
+Checkout 5 completed with Name: User_4w90zj7w, Email: user_4w90zj7w@example.com
+Starting checkout 6 with Name: User_zdw1y3ah, Email: user_zdw1y3ah@example.com
+Checkout 6 completed with Name: User_zdw1y3ah, Email: user_zdw1y3ah@example.com
+Starting checkout 7 with Name: User_81p61bgq, Email: user_81p61bgq@example.com
+Checkout 7 completed with Name: User_81p61bgq, Email: user_81p61bgq@example.com
+Starting checkout 8 with Name: User_0m84fyjg, Email: user_0m84fyjg@example.com
+Checkout 8 completed with Name: User_0m84fyjg, Email: user_0m84fyjg@example.com
+Starting checkout 9 with Name: User_zqbx0ouq, Email: user_zqbx0ouq@example.com
+Checkout 9 completed with Name: User_zqbx0ouq, Email: user_zqbx0ouq@example.com
+Error during checkout 9: page.waitForTimeout: Target page, context or browser has been closed
+Starting checkout 10 with Name: User_7lhqbxny, Email: user_7lhqbxny@example.com
+Error during checkout 10: page.goto: Target page, context or browser has been closed
+Starting checkout 11 with Name: User_g3ntuqus, Email: user_g3ntuqus@example.com
+Error during checkout 11: page.goto: Target page, context or browser has been closed
+Starting checkout 12 with Name: User_0imnaazj, Email: user_0imnaazj@example.com
+Error during checkout 12: page.goto: Target page, context or browser has been closed
+Starting checkout 13 with Name: User_g1mqxyqb, Email: user_g1mqxyqb@example.com
+Error during checkout 13: page.goto: Target page, context or browser has been closed
+Starting checkout 14 with Name: User_76ee5ul3, Email: user_76ee5ul3@example.com
+Error during checkout 14: page.goto: Target page, context or browser has been closed
+Starting checkout 15 with Name: User_kof0p72u, Email: user_kof0p72u@example.com
+Error during checkout 15: page.goto: Target page, context or browser has been closed
+Starting checkout 16 with Name: User_x0q31tz7, Email: user_x0q31tz7@example.com
+Error during checkout 16: page.goto: Target page, context or browser has been closed
+Starting checkout 17 with Name: User_bawm0nux, Email: user_bawm0nux@example.com
+Error during checkout 17: page.goto: Target page, context or browser has been closed
+Starting checkout 18 with Name: User_rz4o1p5y, Email: user_rz4o1p5y@example.com
+Error during checkout 18: page.goto: Target page, context or browser has been closed
+Starting checkout 19 with Name: User_qubmqemb, Email: user_qubmqemb@example.com
+Error during checkout 19: page.goto: Target page, context or browser has been closed
+Starting checkout 20 with Name: User_bkex48rn, Email: user_bkex48rn@example.com
+Error during checkout 20: page.goto: Target page, context or browser has been closed
+Starting checkout 21 with Name: User_5al8ciea, Email: user_5al8ciea@example.com
+Error during checkout 21: page.goto: Target page, context or browser has been closed
+Starting checkout 22 with Name: User_s2td2q2f, Email: user_s2td2q2f@example.com
+Error during checkout 22: page.goto: Target page, context or browser has been closed
+Starting checkout 23 with Name: User_xoq4opi6, Email: user_xoq4opi6@example.com
+Error during checkout 23: page.goto: Target page, context or browser has been closed
+Starting checkout 24 with Name: User_p1rbg336, Email: user_p1rbg336@example.com
+Error during checkout 24: page.goto: Target page, context or browser has been closed
+Starting checkout 25 with Name: User_3o7ipjhm, Email: user_3o7ipjhm@example.com
+Error during checkout 25: page.goto: Target page, context or browser has been closed
+Starting checkout 26 with Name: User_xoarb2bk, Email: user_xoarb2bk@example.com
+Error during checkout 26: page.goto: Target page, context or browser has been closed
+Starting checkout 27 with Name: User_xfe4nhhu, Email: user_xfe4nhhu@example.com
+Error during checkout 27: page.goto: Target page, context or browser has been closed
+Starting checkout 28 with Name: User_2udt2p21, Email: user_2udt2p21@example.com
+Error during checkout 28: page.goto: Target page, context or browser has been closed
+Starting checkout 29 with Name: User_w949num5, Email: user_w949num5@example.com
+Error during checkout 29: page.goto: Target page, context or browser has been closed
+Starting checkout 30 with Name: User_xgukl1q4, Email: user_xgukl1q4@example.com
+Error during checkout 30: page.goto: Target page, context or browser has been closed
+Starting checkout 31 with Name: User_45bphn15, Email: user_45bphn15@example.com
+Error during checkout 31: page.goto: Target page, context or browser has been closed
+Starting checkout 32 with Name: User_1s11znmh, Email: user_1s11znmh@example.com
+Error during checkout 32: page.goto: Target page, context or browser has been closed
+Starting checkout 33 with Name: User_xxhiuv4f, Email: user_xxhiuv4f@example.com
+Error during checkout 33: page.goto: Target page, context or browser has been closed
+Starting checkout 34 with Name: User_1wgiutqc, Email: user_1wgiutqc@example.com
+Error during checkout 34: page.goto: Target page, context or browser has been closed
+Starting checkout 35 with Name: User_mdwlw5yb, Email: user_mdwlw5yb@example.com
+Error during checkout 35: page.goto: Target page, context or browser has been closed
+Starting checkout 36 with Name: User_bhequf3l, Email: user_bhequf3l@example.com
+Error during checkout 36: page.goto: Target page, context or browser has been closed
+Starting checkout 37 with Name: User_d621gggf, Email: user_d621gggf@example.com
+Error during checkout 37: page.goto: Target page, context or browser has been closed
+Starting checkout 38 with Name: User_rz73eno1, Email: user_rz73eno1@example.com
+Error during checkout 38: page.goto: Target page, context or browser has been closed
+Starting checkout 39 with Name: User_9rdkshwp, Email: user_9rdkshwp@example.com
+Error during checkout 39: page.goto: Target page, context or browser has been closed
+Starting checkout 40 with Name: User_hqxjcc25, Email: user_hqxjcc25@example.com
+Error during checkout 40: page.goto: Target page, context or browser has been closed
+Starting checkout 41 with Name: User_l65gsm1u, Email: user_l65gsm1u@example.com
+Error during checkout 41: page.goto: Target page, context or browser has been closed
+Starting checkout 42 with Name: User_d1fvxphb, Email: user_d1fvxphb@example.com
+Error during checkout 42: page.goto: Target page, context or browser has been closed
+Starting checkout 43 with Name: User_pnffp65j, Email: user_pnffp65j@example.com
+Error during checkout 43: page.goto: Target page, context or browser has been closed
+Starting checkout 44 with Name: User_dj8sxeae, Email: user_dj8sxeae@example.com
+Error during checkout 44: page.goto: Target page, context or browser has been closed
+Starting checkout 45 with Name: User_gahi7nyw, Email: user_gahi7nyw@example.com
+Error during checkout 45: page.goto: Target page, context or browser has been closed
+Starting checkout 46 with Name: User_sna6totn, Email: user_sna6totn@example.com
+Error during checkout 46: page.goto: Target page, context or browser has been closed
+Starting checkout 47 with Name: User_y55jy4nm, Email: user_y55jy4nm@example.com
+Error during checkout 47: page.goto: Target page, context or browser has been closed
+Starting checkout 48 with Name: User_44bzun3m, Email: user_44bzun3m@example.com
+Error during checkout 48: page.goto: Target page, context or browser has been closed
+Starting checkout 49 with Name: User_zyyavr5w, Email: user_zyyavr5w@example.com
+Error during checkout 49: page.goto: Target page, context or browser has been closed
+Starting checkout 50 with Name: User_cix9ob07, Email: user_cix9ob07@example.com
+Error during checkout 50: page.goto: Target page, context or browser has been closed
+Starting checkout 51 with Name: User_5bjoahmk, Email: user_5bjoahmk@example.com
+Error during checkout 51: page.goto: Target page, context or browser has been closed
+Starting checkout 52 with Name: User_629wizp1, Email: user_629wizp1@example.com
+Error during checkout 52: page.goto: Target page, context or browser has been closed
+Starting checkout 53 with Name: User_4gwttmbv, Email: user_4gwttmbv@example.com
+Error during checkout 53: page.goto: Target page, context or browser has been closed
+Starting checkout 54 with Name: User_trshg57h, Email: user_trshg57h@example.com
+Error during checkout 54: page.goto: Target page, context or browser has been closed
+Starting checkout 55 with Name: User_jctn0r7x, Email: user_jctn0r7x@example.com
+Error during checkout 55: page.goto: Target page, context or browser has been closed
+Starting checkout 56 with Name: User_s7pxtlik, Email: user_s7pxtlik@example.com
+Error during checkout 56: page.goto: Target page, context or browser has been closed
+Starting checkout 57 with Name: User_kf0jcrwm, Email: user_kf0jcrwm@example.com
+Error during checkout 57: page.goto: Target page, context or browser has been closed
+Starting checkout 58 with Name: User_15earwtx, Email: user_15earwtx@example.com
+Error during checkout 58: page.goto: Target page, context or browser has been closed
+Starting checkout 59 with Name: User_hqtv6c2z, Email: user_hqtv6c2z@example.com
+Error during checkout 59: page.goto: Target page, context or browser has been closed
+Starting checkout 60 with Name: User_u6esyort, Email: user_u6esyort@example.com
+Error during checkout 60: page.goto: Target page, context or browser has been closed
+Starting checkout 61 with Name: User_75npy4gv, Email: user_75npy4gv@example.com
+Error during checkout 61: page.goto: Target page, context or browser has been closed
+Starting checkout 62 with Name: User_94zv3ryf, Email: user_94zv3ryf@example.com
+Error during checkout 62: page.goto: Target page, context or browser has been closed
+Starting checkout 63 with Name: User_ni3z3ffc, Email: user_ni3z3ffc@example.com
+Error during checkout 63: page.goto: Target page, context or browser has been closed
+Starting checkout 64 with Name: User_mihprwxb, Email: user_mihprwxb@example.com
+Error during checkout 64: page.goto: Target page, context or browser has been closed
+Starting checkout 65 with Name: User_abn1wce5, Email: user_abn1wce5@example.com
+Error during checkout 65: page.goto: Target page, context or browser has been closed
+Starting checkout 66 with Name: User_vhdyqxbs, Email: user_vhdyqxbs@example.com
+Error during checkout 66: page.goto: Target page, context or browser has been closed
+Starting checkout 67 with Name: User_x85hcg0a, Email: user_x85hcg0a@example.com
+Error during checkout 67: page.goto: Target page, context or browser has been closed
+Starting checkout 68 with Name: User_vdebuw3c, Email: user_vdebuw3c@example.com
+Error during checkout 68: page.goto: Target page, context or browser has been closed
+Starting checkout 69 with Name: User_e78dcnnl, Email: user_e78dcnnl@example.com
+Error during checkout 69: page.goto: Target page, context or browser has been closed
+Starting checkout 70 with Name: User_s4rm2wsz, Email: user_s4rm2wsz@example.com
+Error during checkout 70: page.goto: Target page, context or browser has been closed
+Starting checkout 71 with Name: User_n17mal69, Email: user_n17mal69@example.com
+Error during checkout 71: page.goto: Target page, context or browser has been closed
+Starting checkout 72 with Name: User_een2ith3, Email: user_een2ith3@example.com
+Error during checkout 72: page.goto: Target page, context or browser has been closed
+Starting checkout 73 with Name: User_gmapw0at, Email: user_gmapw0at@example.com
+Error during checkout 73: page.goto: Target page, context or browser has been closed
+Starting checkout 74 with Name: User_lylajfhq, Email: user_lylajfhq@example.com
+Error during checkout 74: page.goto: Target page, context or browser has been closed
+Starting checkout 75 with Name: User_75x6kx12, Email: user_75x6kx12@example.com
+Error during checkout 75: page.goto: Target page, context or browser has been closed
+Starting checkout 76 with Name: User_v6rbnplr, Email: user_v6rbnplr@example.com
+Error during checkout 76: page.goto: Target page, context or browser has been closed
+Starting checkout 77 with Name: User_8kpc08d1, Email: user_8kpc08d1@example.com
+Error during checkout 77: page.goto: Target page, context or browser has been closed
+Starting checkout 78 with Name: User_r20rkwhn, Email: user_r20rkwhn@example.com
+Error during checkout 78: page.goto: Target page, context or browser has been closed
+Starting checkout 79 with Name: User_cd8bqoii, Email: user_cd8bqoii@example.com
+Error during checkout 79: page.goto: Target page, context or browser has been closed
+Starting checkout 80 with Name: User_qb9nhema, Email: user_qb9nhema@example.com
+Error during checkout 80: page.goto: Target page, context or browser has been closed
+Starting checkout 81 with Name: User_gy9sd8ib, Email: user_gy9sd8ib@example.com
+Error during checkout 81: page.goto: Target page, context or browser has been closed
+Starting checkout 82 with Name: User_qca4toc8, Email: user_qca4toc8@example.com
+Error during checkout 82: page.goto: Target page, context or browser has been closed
+Starting checkout 83 with Name: User_al7hbuct, Email: user_al7hbuct@example.com
+Error during checkout 83: page.goto: Target page, context or browser has been closed
+Starting checkout 84 with Name: User_8q8ea8vz, Email: user_8q8ea8vz@example.com
+Error during checkout 84: page.goto: Target page, context or browser has been closed
+Starting checkout 85 with Name: User_phx0amml, Email: user_phx0amml@example.com
+Error during checkout 85: page.goto: Target page, context or browser has been closed
+Starting checkout 86 with Name: User_mksqivqz, Email: user_mksqivqz@example.com
+Error during checkout 86: page.goto: Target page, context or browser has been closed
+Starting checkout 87 with Name: User_kracfp4o, Email: user_kracfp4o@example.com
+Error during checkout 87: page.goto: Target page, context or browser has been closed
+Starting checkout 88 with Name: User_dgphzvwo, Email: user_dgphzvwo@example.com
+Error during checkout 88: page.goto: Target page, context or browser has been closed
+Starting checkout 89 with Name: User_pr00bh90, Email: user_pr00bh90@example.com
+Error during checkout 89: page.goto: Target page, context or browser has been closed
+Starting checkout 90 with Name: User_hp3761ah, Email: user_hp3761ah@example.com
+Error during checkout 90: page.goto: Target page, context or browser has been closed
+Starting checkout 91 with Name: User_hde1w0l5, Email: user_hde1w0l5@example.com
+Error during checkout 91: page.goto: Target page, context or browser has been closed
+Starting checkout 92 with Name: User_x0vy0joz, Email: user_x0vy0joz@example.com
+Test completed: 1000 checkout transactions automated.
+
+Error during checkout 92: page.goto: Target page, context or browser has been closed
+Starting checkout 93 with Name: User_hbz29hbx, Email: user_hbz29hbx@example.com
+Error during checkout 93: page.goto: Target page, context or browser has been closed
+Starting checkout 94 with Name: User_mblsgq12, Email: user_mblsgq12@example.com
+Error during checkout 94: page.goto: Target page, context or browser has been closed
+Starting checkout 95 with Name: User_po1yzd2t, Email: user_po1yzd2t@example.com
+Error during checkout 95: page.goto: Target page, context or browser has been closed
+Starting checkout 96 with Name: User_xbc1uspa, Email: user_xbc1uspa@example.com

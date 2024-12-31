@@ -31,10 +31,10 @@ jobs:
       # Step 4: Run each test file sequentially
 
       - name: Run checkout_automation.spec.js
-        run: npx playwright test checkout_automation.spec.js
+        run: npx playwright test checkout.spec.js
 
       - name: Run checkout_automations.spec.js
-        run: npx playwright test checkout_automations.spec.js
+        run: npx playwright test checkout2.spec.js
 
       - name: Run checkout_automationss.spec.js
-        run: npx playwright test checkout_automationss.spec.js
+        run: npx playwright test checkout3.spec.js

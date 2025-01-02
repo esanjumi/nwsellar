@@ -48,3 +48,8 @@ nwsellar/
 ├── .gitignore              # Ignored files and directories
 ├── package.json            # Project metadata and dependencies
 ├── README.md               # Project documentation
+
+For every push or pull request a github action flow was already setup so the test tuns automatically.
+all i need to do is edit the read me file and commit to master and the tests start running.
+so there are 3 ithet test files but i set up i ly checkout 1-3 to run, the checkout_automation 1-3 wont run brcause i excluded it in the workflow
+file. so lets commit this and push for book 2 update.

@@ -31,7 +31,7 @@ test.describe('Automate checkouts in parallel', () => {
 
         try {
           // Navigate to the target page
-          await page.goto('https://selar.co/Agric-TechVol1');
+          await page.goto('https://selar.co/Agric-TechVol2');
 
           // Click on the 'Get now' button
           await page.locator('button', { hasText: 'Get now' }).click();
